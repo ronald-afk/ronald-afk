@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/ronald-afk/ronald-afk/blob/main/MUHAMMAD%20RONALD.png)
 <h1 align="center">Hello 👋, I'm Ronald Wicaksono</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 =======
