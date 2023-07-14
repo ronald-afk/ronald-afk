@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://fb.com/roniwicaksana7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roniwicaksana7" height="30" width="40" /></a>
 <a href="https://instagram.com/ronald_ue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronald_ue" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ronaldwicaksono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ronaldwicaksono" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmYRdLFsYcTInHvcj6g-Rag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ronaldwicaksono" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/qGpp6dRfaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/qGpp6dRfaq" height="30" width="40" /></a>
 </p>
 
