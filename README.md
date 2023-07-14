@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 ![logo](https://github.com/ronald-afk/ronald-afk/blob/main/MUHAMMAD%20RONALD.png)
-<h1 align="center">Hello 👋, I'm Ronald Wicaksono</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-=======
 <h1 align="center">Hi 👋, I'm Ronald Wicaksono</h1>
 <h3 align="center">A passionate frontend developer</h3>
->>>>>>> 840e599cae4be3e2d7e83a6617b0b9a1c703a94e
 
 - 👨‍💻 All of my projects are available at [https://ronald-afk.github.io/Folio/](https://ronald-afk.github.io/Folio/)
 
